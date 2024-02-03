@@ -4,14 +4,14 @@ pipeline {
         skipStagesAfterUnstable()
     }
     environment {
-        REPOSITORY = "public.ecr.aws/z4m1p6s9/amcart-product"
-        IMAGE_NAME = "amcart-product"
+        REPOSITORY = "public.ecr.aws/z4m1p6s9/amcart-search"
+        IMAGE_NAME = "amcart-search"
     }
     stages {
          stage('Build') { 
             steps { 
                 script {
-                    bat "docker build -t amcart-product ."
+                    bat "docker build -t amcart-search ."
                 }
             }
         }
