@@ -1,0 +1,442 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Plain Cotton T-Shirt",
+            "price": 399,
+            "discount": 15,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts",
+                "popular"
+            ],
+            "brand": "Nike",
+            "rating": 4,
+            "images": [
+                "image8.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 2,
+            "name": "Printed Cotton T-Shirt",
+            "price": 399,
+            "discount": 15,
+            "mainCategory": "women",
+            "categories": [
+                "black",
+                "t-shirts",
+                "popular"
+            ],
+            "brand": "Kanvin",
+            "rating": 3,
+            "images": [
+                "image9.avif",
+                "image36.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 3,
+            "name": "Printed Cotton T-Shirt",
+            "price": 399,
+            "discount": 15,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts"
+            ],
+            "brand": "Adidas",
+            "rating": 5,
+            "images": [
+                "image10.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 4,
+            "name": "Printed Cotton T-Shirt",
+            "price": 399,
+            "mainCategory": "men",
+            "categories": [
+                "pink",
+                "t-shirts",
+                "popular"
+            ],
+            "brand": "Gucci",
+            "rating": 2,
+            "images": [
+                "image11.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 5,
+            "name": "Plain Cotton T-Shirt",
+            "price": 399,
+            "discount": 15,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts"
+            ],
+            "brand": "Roadster",
+            "rating": 1,
+            "images": [
+                "image12.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 6,
+            "name": "Printed Cotton T-Shirt",
+            "price": 399,
+            "discount": 15,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts",
+                "popular"
+            ],
+            "brand": "Allen Solly",
+            "rating": 4,
+            "images": [
+                "image13.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 7,
+            "name": "Printed Cotton T-Shirt",
+            "price": 399,
+            "mainCategory": "men",
+            "categories": [
+                "black",
+                "t-shirts"
+            ],
+            "brand": "Peter England",
+            "rating": 3,
+            "images": [
+                "image14.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 8,
+            "name": "Plain Cotton T-Shirt",
+            "price": 399,
+            "discount": 80,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts"
+            ],
+            "brand": "Nike",
+            "rating": 4,
+            "images": [
+                "image15.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 9,
+            "name": "Printed Cotton T-Shirt",
+            "price": 399,
+            "mainCategory": "women",
+            "categories": [
+                "black",
+                "t-shirts",
+                "popular"
+            ],
+            "brand": "MANGO",
+            "rating": 3,
+            "images": [
+                "image16.avif",
+                "image38.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 10,
+            "name": "Plain Cotton T-Shirt",
+            "price": 1399,
+            "discount": 15,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts"
+            ],
+            "brand": "Adidas",
+            "rating": 5,
+            "images": [
+                "image17.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 11,
+            "name": "Plain Cotton T-Shirt",
+            "price": 2999,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts"
+            ],
+            "brand": "Gucci",
+            "rating": 2,
+            "images": [
+                "image18.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 12,
+            "name": "Printed Cotton T-Shirt",
+            "price": 599,
+            "discount": 15,
+            "mainCategory": "men",
+            "categories": [
+                "white",
+                "t-shirts",
+                "popular"
+            ],
+            "brand": "Roadster",
+            "rating": 1,
+            "images": [
+                "image19.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 13,
+            "name": "Plain Cotton T-Shirt",
+            "price": 1299,
+            "discount": 30,
+            "mainCategory": "women",
+            "categories": [
+                "white",
+                "t-shirts"
+            ],
+            "brand": "Allen Solly",
+            "rating": 4,
+            "images": [
+                "image20.avif",
+                "image39.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 14,
+            "name": "Plain Cotton T-Shirt",
+            "price": 2199,
+            "discount": 50,
+            "mainCategory": "women",
+            "categories": [
+                "black",
+                "t-shirts"
+            ],
+            "brand": "Peter England",
+            "rating": 3,
+            "images": [
+                "image21.jpg",
+                "image37.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 15,
+            "name": "Satin Red Dress",
+            "price": 2999,
+            "discount": 10,
+            "mainCategory": "women",
+            "categories": [
+                "red",
+                "dresses & jumpsuits",
+                "popular"
+            ],
+            "brand": "MANGO",
+            "rating": 5,
+            "images": [
+                "image22.jpg",
+                "image30.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 16,
+            "name": "Cotton Pink Dress",
+            "price": 1399,
+            "discount": 15,
+            "mainCategory": "women",
+            "categories": [
+                "pink",
+                "dresses & jumpsuits"
+            ],
+            "brand": "Mast & Harbour",
+            "rating": 3.5,
+            "images": [
+                "image23.jpg",
+                "image29.webp"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 17,
+            "name": "Cotton Light Pink Dress",
+            "price": 1499,
+            "discount": 30,
+            "mainCategory": "women",
+            "categories": [
+                "light pink",
+                "dresses & jumpsuits",
+                "popular"
+            ],
+            "brand": "Harpa",
+            "rating": 5,
+            "images": [
+                "image24.avif",
+                "image31.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 18,
+            "name": "Cotton Check Blue Shirt",
+            "price": 1999,
+            "discount": 30,
+            "mainCategory": "men",
+            "categories": [
+                "blue",
+                "green",
+                "popular",
+                "casual shirts"
+            ],
+            "brand": "Roadster",
+            "rating": 5,
+            "images": [
+                "image25.jpg",
+                "image35.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 19,
+            "name": "Cotton Check black Shirt",
+            "price": 1599,
+            "mainCategory": "men",
+            "categories": [
+                "black",
+                "checks",
+                "gray",
+                "casual shirts"
+            ],
+            "brand": "Roadster",
+            "rating": 5,
+            "images": [
+                "image26.jpg",
+                "image32.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 20,
+            "name": "Cotton Check Blue Green Shirt",
+            "price": 1499,
+            "mainCategory": "men",
+            "categories": [
+                "blue",
+                "green",
+                "casual shirts"
+            ],
+            "brand": "Mast & Harbour",
+            "rating": 5,
+            "images": [
+                "image27.jpg",
+                "image33.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 21,
+            "name": "Cotton Check Light Blue Shirt",
+            "price": 1499,
+            "discount": 30,
+            "mainCategory": "men",
+            "categories": [
+                "blue",
+                "light",
+                "casual shirts"
+            ],
+            "brand": "Roadster",
+            "rating": 5,
+            "images": [
+                "image28.jpg",
+                "image34.jpg"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 22,
+            "name": "Women Wide Leg Stretchable Jeans",
+            "price": 2199,
+            "discount": 50,
+            "mainCategory": "women",
+            "categories": [
+                "black",
+                "jeans",
+                "stretchable"
+            ],
+            "brand": "Sassafras",
+            "rating": 4.1,
+            "images": [
+                "image40.avif",
+                "image41.avif"
+            ],
+            "isAvailable": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        },
+        {
+            "id": 23,
+            "name": "Navy Blue Stretchable Jeans",
+            "price": 2399,
+            "discount": 15,
+            "mainCategory": "women",
+            "categories": [
+                "navy blue",
+                "jeans",
+                "stretchable",
+                "high rise"
+            ],
+            "brand": "Dolce Crudo",
+            "rating": 4.2,
+            "images": [
+                "image42.webp",
+                "image43.webp"
+            ],
+            "isAvailable": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec ullamcorper sapien. Nullam finibus pharetra interdum. Donec elementum vel sem vel gravida. Vivamus ac dignissim elit, nec lacinia ligula. In vel elit iaculis, vulputate ligula sed, efficitur libero. Integer sed condimentum tortor, at pharetra ex. Nunc commodo lacinia eleifend. Sed id orci at est ultrices ultrices ultricies suscipit ex. Nam fermentum, dolor at commodo porta, nisi ante vulputate metus, at interdum nunc magna id tellus. Donec aliquam diam eu volutpat suscipit. Vivamus sit amet varius magna. Cras sagittis, est sed euismod hendrerit, nisi tortor fringilla dui, non iaculis tortor est eget purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc faucibus, diam ac sodales fringilla, elit ipsum volutpat ante, quis vehicula justo lorem eu mi. Morbi efficitur odio quis sodales mollis. Aliquam erat volutpat."
+        }
+    ]
+}
