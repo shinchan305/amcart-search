@@ -3,7 +3,6 @@ const client = require('./opensearch-client');
 const searchProducts = function (req, res) {
 
     const body = getRequestBody(req);
-    console.log('search:' + JSON.stringify(body));
     client.search({
         index: 'product',
         body: body

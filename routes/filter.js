@@ -2,7 +2,6 @@ const client = require('./opensearch-client');
 const { getRequestBody } = require('./search');
 
 const getFilters = function (req, res) {
-    debugger;
     let body = getRequestBody(req);
     body.aggs = {
         "distinct_brands": {
@@ -12,7 +11,6 @@ const getFilters = function (req, res) {
             }
         }
     }
-    console.log(body);
     client.search({
         index: 'product',
         body: body
